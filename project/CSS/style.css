@@ -1,0 +1,88 @@
+.background{
+    background: url(gym\ image.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    background-blend-mode: darken;
+    
+}
+h1{
+    color:black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    border-style: solid ;
+    background-color: white;
+    text-align: center;
+    padding-left:15px ;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    margin-left: 15%;
+    margin-right: 15%;
+  
+}
+.one{
+    background-color: green;
+    color: aliceblue;
+    margin-left: 35%;
+    padding-top: 25px;
+    padding-left: 55px;
+    padding-bottom: 15px;
+    padding-right: 55px;
+    margin-bottom: 3%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+.two{
+    width: 100%;
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    padding-bottom: 18px;
+    margin-right: 26%;
+    
+    
+}
+
+.three{
+    margin-left: 33%;
+  
+ 
+    color: black;
+    padding-bottom: 0%;
+   
+    
+
+    
+
+   
+}
+.four {
+    background-color: red;
+    border-color: red;
+    color: aliceblue;
+    text-align: center;
+    margin-left: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+   
+
+  
+
+}
+.five{
+    background-color: green;
+    border-color: green;
+    color: aliceblue;
+    text-align: center;
+    margin-left: 13%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+   
+}
+    
+    
+  
+    
+    
