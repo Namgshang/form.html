@@ -1,0 +1,15 @@
+body{
+    background-color: aquamarine;
+}
+
+h2{
+    font-family: "press start 2p",cursive;
+}
+p{
+     color: brown;
+     font-size: larger;
+     font-family: 'Press Start 2P', cursive;
+     text-decoration:hwb(129 1% 11%) underline;
+     font-size: 30px;
+     
+    }
